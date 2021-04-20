@@ -1,5 +1,5 @@
 [![Minimum PHP Version](https://img.shields.io/badge/php-%3E%3D%207.4-8892BF.svg?style=flat-square)](https://php.net/)
-[![Latest Stable Version](https://poser.pugx.org/mazanax/composer-version-semver/v/stable)](https://packagist.org/packages/mazanax/composer-version-semver)
+[![Latest Stable Version](https://poser.pugx.org/mazanax/composer-version-semver/v)](//packagist.org/packages/mazanax/composer-version-semver)
 [![Build Status](https://api.travis-ci.com/mazanax/composer-package-version-semver.svg?branch=master)](https://travis-ci.com/github/mazanax/composer-package-version-semver)
 [![codecov](https://codecov.io/gh/mazanax/composer-package-version-semver/branch/master/graph/badge.svg?token=E1EQHJQJTH)](https://codecov.io/gh/mazanax/composer-package-version-semver)
 
